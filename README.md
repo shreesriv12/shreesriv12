@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreeya Srivastava</h1>
+<h1 align="center">Hi 👋, I'm Shreeya Srivastava First year undergraduate from MNNIT Allahabad persuing CSE in BTech</h1>
 <h3 align="center">🔹 Code. Optimize. Innovate. | Bridging Logic with Technology 🚀 Turning Ideas into Code | Exploring DSA, CP, ML & Web Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreesriv12&label=Profile%20views&color=0e75b6&style=flat" alt="shreesriv12" /> </p>
