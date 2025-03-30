@@ -30,3 +30,30 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreesriv12&show_icons=true&locale=en" alt="shreesriv12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreesriv12&" alt="shreesriv12" /></p>
+
+
+# My Projects
+
+## Machine Learning Projects
+
+1. **Movie Recommender System**  
+   - 🔗 GitHub: (https://github.com/shreesriv12/movie-recommender-system)
+   - 📄 Description: This Movie Recommender System suggests movies based on user preferences using text analysis. It analyzes movie details such as genres, keywords, cast, and crew to determine similarities between films. By leveraging NLP techniques and machine learning, it provides accurate recommendations efficiently.
+   
+2. **Crop Prediction Model**  
+   - 🔗 GitHub: https://github.com/shreesriv12/crop-prediction-model
+   - 📄 Description: The Crop Recommendation System is a machine learning-based web application that predicts the most suitable crop for cultivation based on historical data and environmental parameters. It also provides insights into required fertilizers, seeds, market prices, and estimated yield.
+
+## Web Development Projects
+
+1. **Assignify(Group Project)--DevJam**  
+   - 🔗 GitHub: https://github.com/CoderFleet/DevJam
+   - 📄 Description: Assignify is a powerful and intuitive platform designed for students to efficiently manage their assignments, deadlines, and communication. With seamless integration of task tracking, file uploads, and messaging, Assignify simplifies academic workflows and boosts productivity.
+   
+2. **Mediconnect(Solo Project)**  
+   - 🔗 GitHub: https://github.com/shreesriv12/MediConnect
+   - 📄 Description: MediConnect is an all-in-one healthcare platform designed to seamlessly connect doctors and clients for hassle-free appointment scheduling, real-time consultations, and easy access to medical resources. Whether you need to book a doctor, chat for advice, or search for medicines, MediConnect provides a smooth and secure experience.
+
+
+---
+
