@@ -44,6 +44,10 @@
    - 🔗 GitHub: https://github.com/shreesriv12/crop-prediction-model
    - 📄 Description: The Crop Recommendation System is a machine learning-based web application that predicts the most suitable crop for cultivation based on historical data and environmental parameters. It also provides insights into required fertilizers, seeds, market prices, and estimated yield.
 
+2. **Hand Tracking Model**  
+   - 🔗 GitHub: https://github.com/shreesriv12/Hand-Tracking-module
+   - 📄 Description: This project implements a real-time hand tracking system using OpenCV and MediaPipe. It detects hands in a video feed, extracts hand landmarks, and displays tracking information, including FPS
+
 ## Web Development Projects
 
 1. **Assignify(Group Project)--DevJam**  
