@@ -17,8 +17,6 @@
 <a href="https://codesandbox.com/shreesriv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shreesriv12" height="30" width="40" /></a>
 <a href="https://instagram.com/shreesriv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreesriv12" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/shreeya_sriv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shreeya_sriv12" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreeyasriv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreeyasriv12" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/shreeyasrivh7ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shreeyasrivh7ss" height="30" width="40" /></a>
 <a href="https://discord.gg/shree_sriv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shree_sriv12" height="30" width="40" /></a>
 </p>
 
