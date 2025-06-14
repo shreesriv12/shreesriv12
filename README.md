@@ -106,7 +106,7 @@
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 </div>
 
-## 🤖 Machine Learning Projects
+## 🤖 Machine Learning And AI Projects
 
 1. **Movie Recommender System**  
    - 🔗 GitHub: https://github.com/shreesriv12/movie-recommender-system
@@ -120,6 +120,11 @@
    - 🔗 GitHub: https://github.com/shreesriv12/Hand-Tracking-module
    - 📄 Description: This project implements a real-time hand tracking system using OpenCV and MediaPipe. It detects hands in a video feed, extracts hand landmarks, and displays tracking information, including FPS
 
+4. 3. **Youtube-ChatBot**  
+   - 🔗 GitHub: https://github.com/shreesriv12/Youtube-ChatBot-using-Langchain
+   - 📄 Description: A Chrome Extension + AI Backend that allows users to ask questions about any YouTube video. It fetches the video's transcript, chunks it, embeds it with SentenceTransformers, stores it in FAISS, and uses Gemini AI to answer questions contextually.
+  
+   - 
 ## 🌐 Web Development Projects
 
 1. **Assignify(Group Project)--DevJam**  
