@@ -43,7 +43,7 @@
 ## 🎨 Anime Vibes
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80">
+  <img src="https://pin.it/5nQgPzF6G" width="80">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="80">
   <img src="https://media.giphy.com/media/WhCM73NX6Mp6RqaYgN/giphy.gif" width="80">
