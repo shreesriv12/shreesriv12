@@ -24,20 +24,19 @@
 ---
 
 ## 🎯 Competitive Programming Stats
-
 <div align="center">
 
 ### 🏆 CodeForces
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreeya_sriv12&theme=anime" alt="CodeForces Stats"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreeya_sriv12&theme=dark&show_icons=true" alt="CodeForces Stats"/>
 
 ### 💻 LeetCode
-<img src="https://leetcard.jacoblin.cool/shreeyasriv12?theme=unicorn&font=Noto%20Sans%20JP" alt="LeetCode Stats"/>
+<img src="https://leetcode.card.workers.dev/shreeyasriv12?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
 
 ### 🍳 CodeChef
-<img src="https://codechef-readme-stats.vercel.app/api/card?username=troop_eagle_85&theme=anime" alt="CodeChef Stats"/>
-
+<a href="https://www.codechef.com/users/troop_eagle_85">
+  <img src="https://img.shields.io/badge/CodeChef-Rating:_1558_|_Rank:_24,096-green?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Stats"/>
+</a>
 </div>
-
 ---
 
 ## 🎨 Anime Vibes
@@ -47,8 +46,8 @@
 
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgxY2xsNm8yMTBxMHFiOThobTYxNGw2Mm5kaDg3ZnE5NjlnNXl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vcY5zhQ9QDhCw/giphy.gif"/>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpsdWkxOXUwcnZka2dhdHd2MWp6cjMxNHE4czlnbzIyczZ4Y2Q2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif" width="200" alt="Cool Anime"/>
-  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0anZ6dWt2a3g5dWJtazY1bmZrc3B6cG83eW82bWE1cjR2dmtlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif)" width="200" alt="Anime Character 2"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpsdWkxOXUwcnZka2dhdHd2MWp6cjMxNHE4czlnbzIyczZ4Y2Q2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0anZ6dWt2a3g5dWJtazY1bmZrc3B6cG83eW82bWE1cjR2dmtlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif"/>
 </div>
 
 ---
