@@ -42,19 +42,13 @@
 
 ## 🎨 Anime Vibes
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgxY2xsNm8yMTBxMHFiOThobTYxNGw2Mm5kaDg3ZnE5NjlnNXl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vcY5zhQ9QDhCw/giphy.gif" width="80">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpsdWkxOXUwcnZka2dhdHd2MWp6cjMxNHE4czlnbzIyczZ4Y2Q2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif" width="80">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0anZ6dWt2a3g5dWJtazY1bmZrc3B6cG83eW82bWE1cjR2dmtlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif" width="80">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWs1OTd1MzdidzgyYzlwdTRpbGxnd2U1Ynp0eDllbmhhNDU5cXEwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eATt3b9TKBfB2l0z4G/giphy.gif" width="80">
-</div>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Coding Journey with Anime Spirit***
 
 <div align="center">
-  <img src="https://media.giphy.com/media/krkrHAEodHgzP72rTI/giphy.gif" width="200" alt="Anime Character 1"/>
-  <img src="https://media.giphy.com/media/7NoNw4pMNTvgc/giphy.gif" width="200" alt="Cool Anime"/>
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Anime Character 2"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgxY2xsNm8yMTBxMHFiOThobTYxNGw2Mm5kaDg3ZnE5NjlnNXl0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vcY5zhQ9QDhCw/giphy.gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpsdWkxOXUwcnZka2dhdHd2MWp6cjMxNHE4czlnbzIyczZ4Y2Q2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UgV8Y7bDxsZDCP01eo/giphy.gif" width="200" alt="Cool Anime"/>
+  <img src="[https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0anZ6dWt2a3g5dWJtazY1bmZrc3B6cG83eW82bWE1cjR2dmtlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif)" width="200" alt="Anime Character 2"/>
 </div>
 
 ---
