@@ -9,7 +9,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3> My portfolio👉 https://portfolio-nine-ivory-94.vercel.app/ 👈
+<h3> My portfolio 👉 <a href="https://portfolio-nine-ivory-94.vercel.app/" target="_blank">https://portfolio-nine-ivory-94.vercel.app/</a> 👈 </h3>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=shreesriv12&label=Profile%20views&color=0e75b6&style=flat" alt="shreesriv12" />
+</p>
+
+<p align="center">
+  <img src="ScreenRecording2025-06-14164605-ezgif.com-optimize.gif" alt="Developer GIF" width="400"/>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreesriv12&label=Profile%20views&color=0e75b6&style=flat" alt="shreesriv12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreesriv12" alt="shreesriv12" /></a> </p>
