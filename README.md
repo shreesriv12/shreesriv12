@@ -20,10 +20,10 @@
 </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreesriv12" alt="shreesriv12" /></a> </p>
 
-- 🌱 I'm currently learning **Machine Learning and Next.js**
-- 💬 Ask me about **React.js,Node.js,C,C++,Python,MongoDb,HTML,CSS,Javascript**
-- 📫 How to reach me **shreeyasrivastava1124@gmail.com**
-- ⚡ Fun fact: I love anime and competitive programming!
+- I'm currently learning **Machine Learning and Next.js**
+  -Ask me about **React.js,Node.js,C,C++,Python,MongoDb,HTML,CSS,Javascript**
+- How to reach me **shreeyasrivastava1124@gmail.com**
+- I love competitive programming!
 
 <br clear="right"/>
 
