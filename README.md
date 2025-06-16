@@ -120,7 +120,7 @@
    - 🔗 GitHub: https://github.com/shreesriv12/Hand-Tracking-module
    - 📄 Description: This project implements a real-time hand tracking system using OpenCV and MediaPipe. It detects hands in a video feed, extracts hand landmarks, and displays tracking information, including FPS
 
-4. 3. **Youtube-ChatBot**  
+4. **Youtube-ChatBot**  
    - 🔗 GitHub: https://github.com/shreesriv12/Youtube-ChatBot-using-Langchain
    - 📄 Description: A Chrome Extension + AI Backend that allows users to ask questions about any YouTube video. It fetches the video's transcript, chunks it, embeds it with SentenceTransformers, stores it in FAISS, and uses Gemini AI to answer questions contextually.
   
@@ -128,13 +128,16 @@
 ## 🌐 Web Development Projects
 
 1. **Assignify(Group Project)--DevJam**  
-   - 🔗 GitHub: https://github.com/CoderFleet/DevJam
+   - 🔗 GitHub: https://github.com/shreesriv12/DevJam
    - 📄 Description: Assignify is a powerful and intuitive platform designed for students to efficiently manage their assignments, deadlines, and communication. With seamless integration of task tracking, file uploads, and messaging, Assignify simplifies academic workflows and boosts productivity.
    
 2. **Mediconnect(Solo Project)**  
    - 🔗 GitHub: https://github.com/shreesriv12/MediConnect
    - 📄 Description: MediConnect is an all-in-one healthcare platform designed to seamlessly connect doctors and clients for hassle-free appointment scheduling, real-time consultations, and easy access to medical resources. Whether you need to book a doctor, chat for advice, or search for medicines, MediConnect provides a smooth and secure experience.
 
+2. **CryptoCred(Group Project)--Hack 36**  
+   - 🔗 GitHub: https://github.com/shreesriv12/CryptoCred
+   - 📄 Description:A blockchain-based academic certificate storage and verification platform.  
 ---
 
 ## 🌟 Featured Repositories
