@@ -40,7 +40,7 @@
 
 ### 🍳 CodeChef
 <a href="https://www.codechef.com/users/troop_eagle_85">
-  <img src="https://img.shields.io/badge/CodeChef-Rating:_1558_|_Rank:_24,096-green?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Stats"/>
+  <img src="https://img.shields.io/badge/CodeChef-Rating:_1607_|_Rank:_19147-blue?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Stats"/>
 </a>
 </div>
 ---
