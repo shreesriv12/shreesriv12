@@ -155,11 +155,16 @@
 
 ---
 
-## 🎌 Random Anime Quote
-
 <div align="center">
-  <img src="https://animechan.vercel.app/api/random" alt="Anime Quote" />
+
+# 🔵 Blue Lock Ego
+
+> *"If it means winning, I don't mind destroying my old self."*  
+> — **Isagi Yoichi**, *Blue Lock*
+
 </div>
+
+
 
 ---
 
