@@ -35,9 +35,6 @@
 ### 🏆 CodeForces
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreeya_sriv12&theme=dark&show_icons=true" alt="CodeForces Stats"/>
 
-### 💻 LeetCode
-<img src="https://leetcode.card.workers.dev/shreeyasriv12?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
-
 ### 🍳 CodeChef
 <a href="https://www.codechef.com/users/troop_eagle_85">
   <img src="https://github.com/user-attachments/assets/c9f3e1dd-4f40-487c-b1df-3330efafe5f7" alt="CodeChef Stats"/>
