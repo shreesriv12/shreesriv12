@@ -9,7 +9,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3> My portfolio 👉 <a href="https://portfolio-nine-ivory-94.vercel.app/" target="_blank">https://portfolio-nine-ivory-94.vercel.app/</a> 👈 </h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shreesriv12&label=Profile%20views&color=0e75b6&style=flat" alt="shreesriv12" />
