@@ -121,8 +121,10 @@
 4. **Youtube-ChatBot**  
    - 🔗 GitHub: https://github.com/shreesriv12/Youtube-ChatBot-using-Langchain
    - 📄 Description: A Chrome Extension + AI Backend that allows users to ask questions about any YouTube video. It fetches the video's transcript, chunks it, embeds it with SentenceTransformers, stores it in FAISS, and uses Gemini AI to answer questions contextually.
-  
-   - 
+
+4. **ChatBot-with-UI-using-Streamlit-and-Langgraph**  
+   - 🔗 GitHub: https://github.com/shreesriv12/ChatBot-with-UI-using-Streamlit-and-Langgraph
+   - 📄 Description:The application provides a seamless chat experience with conversation history, a clean UI with dark/light mode, and real-time streaming of AI responses.
 ## 🌐 Web Development Projects
 
 1. **Assignify(Group Project)--DevJam**  
@@ -135,23 +137,18 @@
 
 2. **CryptoCred(Group Project)--Hack 36**  
    - 🔗 GitHub: https://github.com/shreesriv12/CryptoCred
-   - 📄 Description:A blockchain-based academic certificate storage and verification platform.  
----
+   - 📄 Description:A blockchain-based academic certificate storage and verification platform.
 
-## 🌟 Featured Repositories
+  
+2. **CryptoCred(Group Project)--Hack 36**  
+   - 🔗 GitHub: [https://github.com/shreesriv12/CryptoCred](https://github.com/shreesriv12/Marauders-map-2)
+   - 📄 Description: A magical, AI-powered digital platform that fuses 3D experiences, real-time gameplay, personality-driven sorting, and cutting-edge AI tools to bring Hogwarts to life like never before.
 
-<div align="center">
-  <a href="https://github.com/shreesriv12/movie-recommender-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreesriv12&repo=movie-recommender-system&theme=radical" alt="Movie Recommender" />
-  </a>
-  <a href="https://github.com/shreesriv12/MediConnect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shreesriv12&repo=MediConnect&theme=radical" alt="MediConnect" />
-  </a>
-</div>
 
 ---
 
-<div align="center">
+
+
 
 # 🔵 Blue Lock Ego
 
