@@ -140,7 +140,7 @@
    - 📄 Description:A blockchain-based academic certificate storage and verification platform.
 
   
-2. **CryptoCred(Group Project)--Hack 36**  
+2. **Marauders-map-2(Group Project)**  
    - 🔗 GitHub: [https://github.com/shreesriv12/CryptoCred](https://github.com/shreesriv12/Marauders-map-2)
    - 📄 Description: A magical, AI-powered digital platform that fuses 3D experiences, real-time gameplay, personality-driven sorting, and cutting-edge AI tools to bring Hogwarts to life like never before.
 
