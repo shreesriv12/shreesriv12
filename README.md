@@ -38,6 +38,9 @@
 <a href="https://www.codechef.com/users/troop_eagle_85">
   <img src="https://github.com/user-attachments/assets/c9f3e1dd-4f40-487c-b1df-3330efafe5f7" alt="CodeChef Stats"/>
 
+  ### 🍳 LeetCode
+<img width="521" height="233" alt="image" src="https://github.com/user-attachments/assets/f7c2c432-e0c9-48b5-aa40-eaaa3e29c512" />
+
 
 </a>
 </div>
