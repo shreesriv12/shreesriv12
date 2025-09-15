@@ -42,9 +42,6 @@
   <img width="286" height="57" alt="image" src="https://github.com/user-attachments/assets/d85c661e-e89e-405c-be73-0552e66088af" />
 
 
-  ### 🍳 LeetCode
-<img width="521" height="233" alt="image" src="https://github.com/user-attachments/assets/f7c2c432-e0c9-48b5-aa40-eaaa3e29c512" />
-
 
 </a>
 </div>
