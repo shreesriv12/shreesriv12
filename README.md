@@ -158,8 +158,8 @@
 
 > *"If it means winning, I don't mind destroying my old self."*  
 > — **Isagi Yoichi**, *Blue Lock*
-
-</div>
+FIGHT NOT TO WIN BUT TO DOMINATE!!!
+> </div>
 
 
 
