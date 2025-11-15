@@ -55,18 +55,18 @@
 ### 🏆 CodeForces - Pupil
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreeya_sriv12&theme=dark&show_icons=true" alt="CodeForces Stats"/>
 
-**450+ Problems Solved** | [🔗 Profile: @Shreeya_sriv12](https://codeforces.com/profile/Shreeya_sriv12)
+**450+ Problems Solved** |
 
 ### 🍳 CodeChef - 3★
 <a href="https://www.codechef.com/users/shreeya12_sriv">
   <img src="https://github.com/user-attachments/assets/c9f3e1dd-4f40-487c-b1df-3330efafe5f7" alt="CodeChef Stats"/>
 </a>
 
-**700+ Problems Solved** | [🔗 Profile: @shreeya12_sriv](https://www.codechef.com/users/shreeya12_sriv)
+**700+ Problems Solved** |
 
 ### 💻 Other Platforms
 - **LeetCode:** 500+ problems solved
-- **GeeksforGeeks:** 100+ problems solved | [🔗 @shreeyasrivh7ss](https://auth.geeksforgeeks.org/user/shreeyasrivh7ss/practice/)
+- **GeeksforGeeks:** 100+ problems solved |
 
 </div>
 
