@@ -4,51 +4,215 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-<h1 align="center">Undergraduate from MNNIT Allahabad persuing Btech in Computer Science And Engineering </h1>
-<h3 align="center">🔹 Code. Optimize. Innovate. | Bridging Logic with Technology 🚀 Turning Ideas into Code | Exploring DSA, CP, ML & Web Dev </h3>
+<h1 align="center">Undergraduate from MNNIT Allahabad pursuing BTech in Computer Science And Engineering</h1>
+<h3 align="center">🔹 Code. Optimize. Innovate. | Bridging Logic with Technology 🚀 Turning Ideas into Code | Exploring DSA, CP, ML & Web Dev</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shreesriv12&label=Profile%20views&color=0e75b6&style=flat" alt="shreesriv12" />
 </p>
 
-<p align="center">
-  <img src="ScreenRecording2025-06-14164605-ezgif.com-optimize.gif" alt="Developer GIF" width="400"/>
-</p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreesriv12" alt="shreesriv12" /></a> </p>
+## 👨‍🎓 About Me
 
-- I'm currently learning **Machine Learning and Next.js**
-  -Ask me about **React.js,Node.js,C,C++,Python,MongoDb,HTML,CSS,Javascript**
-- How to reach me **shreeyasrivastava1124@gmail.com**
-- I love competitive programming!
+- 🎓 **BTech CSE Student** at **MNNIT Allahabad** (2024-28)
+- 📊 **CGPA: 9.43** (till 2nd semester)
+- 🏫 **Academic Background:**
+  - ISC (2022-23): 99% - St. Mary's Convent Inter College, Lucknow
+  - ICSE (2020-21): 98.8% - St. Mary's Convent Inter College, Lucknow
+- 🌱 I'm currently learning **Machine Learning and Next.js**
+- 💬 Ask me about **React.js, Node.js, C, C++, Python, MongoDB, HTML, CSS, Javascript**
+- 📧 How to reach me **shreeyasrivastava1124@gmail.com**
+- ⚡ I love competitive programming!
 
 <br clear="right"/>
 
 ---
 
-## 🎯 Competitive Programming Stats
+## 🏆 Achievements & Recognition
+
 <div align="center">
 
-### 🏆 CodeForces
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreeya_sriv12&theme=dark&show_icons=true" alt="CodeForces Stats"/>
-<img width="962" height="358" alt="image" src="https://github.com/user-attachments/assets/b82e3b84-8cfe-45e1-825c-5157ccb2f331" />
+| 🎯 Achievement | 🥇 Position/Recognition |
+|:--------------|:------------------------|
+| **Techmaiden 2024** | 🥇 1st Rank |
+| **Softhathlon 2024** | 🥈 2nd Rank |
+| **Devjam 2024** | 🏅 Top 8 Finalist |
+| **Cyberquest (Avishkar 2024)** | ⭐ Best Performer, CSE 1st Year |
+| **Codesangam-2025 Logical Rhythm ML** | 🎖️ Top 4 Finalist |
+| **Codesangam-2025 Contrihub** | 🎖️ 5th Rank |
+| **Hack 36 9.0** | 🏅 Top 10 Finalist |
+| **Open Source** | 📝 SSoC Contributor & GSSoC Mentor |
 
-
-### 🍳 CodeChef
-<a href="https://www.codechef.com/users/troop_eagle_85">
-  <img src="https://github.com/user-attachments/assets/c9f3e1dd-4f40-487c-b1df-3330efafe5f7" alt="CodeChef Stats"/>
-  <img width="286" height="57" alt="image" src="https://github.com/user-attachments/assets/d85c661e-e89e-405c-be73-0552e66088af" />
-
-
-
-</a>
 </div>
+
+---
+
+## 🎯 Competitive Programming Stats
+
+<div align="center">
+
+### 🏆 CodeForces - Pupil
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreeya_sriv12&theme=dark&show_icons=true" alt="CodeForces Stats"/>
+
+**450+ Problems Solved** | [🔗 Profile: @Shreeya_sriv12](https://codeforces.com/profile/Shreeya_sriv12)
+
+### 🍳 CodeChef - 3★
+<a href="https://www.codechef.com/users/shreeya12_sriv">
+  <img src="https://github.com/user-attachments/assets/c9f3e1dd-4f40-487c-b1df-3330efafe5f7" alt="CodeChef Stats"/>
+</a>
+
+**700+ Problems Solved** | [🔗 Profile: @shreeya12_sriv](https://www.codechef.com/users/shreeya12_sriv)
+
+### 💻 Other Platforms
+- **LeetCode:** 500+ problems solved
+- **GeeksforGeeks:** 100+ problems solved | [🔗 @shreeyasrivh7ss](https://auth.geeksforgeeks.org/user/shreeyasrivh7ss/practice/)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 **NextStep – AI Career & Interview Copilot**
+**End-to-End AI Platform for Career Growth & Interview Prep** | [🔗 GitHub](https://github.com/shreesriv12/NextStep)
+
+**Tech Stack:** Next.js, Express.js, Flask, MongoDB, Qdrant, Redis, TensorFlow, OpenCV, RoBERTa, Deepgram, ElevenLabs, Gemini
+
+**Key Features:**
+- 🤖 AI platform with resume parsing, ATS scoring, career roadmaps, job matching, interview prep, and skill assessment
+- 🎥 Real-time multimodal interview evaluator analyzing content, voice, and body language with adaptive feedback
+- 🧠 RAG-powered AI copilot for intelligent assistance
+
+---
+
+### 🏥 **MediConnect**
+**All-in-one Healthcare Platform for Hassle-Free Doctor-Client Appointments** | [🔗 GitHub](https://github.com/shreesriv12/MediConnect)
+
+**Tech Stack:** Node.js, Express.js, Socket.IO, Three.js, Twilio, WebRTC, Razorpay, Overpass API, Geolocation, Nodemailer, HuggingFace, React.js, Tailwind
+
+**Key Features:**
+- 👨‍⚕️ Doctor-patient matching platform with appointment booking and real-time consultations
+- 💬 Chat support, medicine search, and secure video calls
+- 💳 Integrated payment processing, automated notifications, and interactive 3D visualizations
+
+---
+
+### 🖥️ **MarlOS – Multi-Agent Reinforcement Learning OS**
+**Decentralized, Fairness-Aware Distributed Computing OS** | Built at Hack 36 | [🔗 GitHub](https://github.com/shreesriv12/MarlOS)
+
+**Tech Stack:** Python, PyTorch, Stable-Baselines3, ZeroMQ, Docker, SQLite, Ed25519
+
+**Key Features:**
+- 🌐 Fully decentralized P2P network with fairness-aware economic layer (MarlCredits)
+- 🔐 Reputation-based trust and proof-of-work audits
+- 🤝 Multi-agent PPO-based RL for cooperative job bidding, resource sharing, and self-healing node orchestration
+- 🔄 ZeroMQ PUB/SUB messaging, Ed25519 cryptographic authentication, distributed job migration
+
+---
+
+## 🤖 Machine Learning & AI Projects
+
+### 1. **Movie Recommender System**
+🔗 [GitHub](https://github.com/shreesriv12/movie-recommender-system)
+- 📝 Suggests movies based on user preferences using NLP and text analysis
+- 🎬 Analyzes genres, keywords, cast, and crew for accurate recommendations
+
+### 2. **Crop Prediction Model**
+🔗 [GitHub](https://github.com/shreesriv12/crop-prediction-model)
+- 🌾 ML-based web app predicting suitable crops based on environmental parameters
+- 📊 Provides insights on fertilizers, seeds, market prices, and estimated yield
+
+### 3. **Hand Tracking Model**
+🔗 [GitHub](https://github.com/shreesriv12/Hand-Tracking-module)
+- 🖐️ Real-time hand tracking using OpenCV and MediaPipe
+- 📹 Detects hands in video feed and extracts landmarks
+
+### 4. **YouTube ChatBot**
+🔗 [GitHub](https://github.com/shreesriv12/Youtube-ChatBot-using-Langchain)
+- 🎥 Chrome Extension + AI Backend for asking questions about YouTube videos
+- 🧠 Uses SentenceTransformers, FAISS, and Gemini AI for contextual answers
+
+### 5. **ChatBot with UI (Streamlit & Langgraph)**
+🔗 [GitHub](https://github.com/shreesriv12/ChatBot-with-UI-using-Streamlit-and-Langgraph)
+- 💬 Seamless chat experience with conversation history
+- 🎨 Clean UI with dark/light mode and real-time AI response streaming
+
+---
+
+## 🌐 Web Development Projects
+
+### 1. **Assignify (Group Project - DevJam)**
+🔗 [GitHub](https://github.com/shreesriv12/DevJam)
+- 📚 Platform for students to manage assignments, deadlines, and communication
+- 📁 Features task tracking, file uploads, and messaging
+
+### 2. **CryptoCred (Group Project - Hack 36)**
+🔗 [GitHub](https://github.com/shreesriv12/CryptoCred)
+- 🔗 Blockchain-based academic certificate storage and verification platform
+- 🔐 Secure and tamper-proof credential management
+
+### 3. **Marauders Map 2 (Group Project)**
+🔗 [GitHub](https://github.com/shreesriv12/Marauders-map-2)
+- ✨ AI-powered digital platform with 3D experiences and real-time gameplay
+- 🏰 Brings Hogwarts to life with personality-driven sorting and AI tools
+
+---
+
+## 💼 Position of Responsibility
+
+<div align="center">
+
+| 🎯 Role | 🏢 Organization |
+|:--------|:---------------|
+| **Computer Coding Club Executive** | MNNIT Allahabad |
+| **SMP Mentor** | MNNIT Allahabad |
+
+</div>
+
+---
+
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### AI/ML & Other
+- 🤖 Generative AI, Machine Learning, AI Orchestration
+- 🎓 **Coursework:** Data Structures, Algorithms, OOPs in Java
+- 🎯 **Areas of Interest:** Full-Stack Development, AI/ML, System Design, Competitive Coding
+- 💪 **Soft Skills:** Problem-Solving, Communication, Teamwork, Leadership
+
+</div>
+
 ---
 
 ## 🎨 Anime Vibes
-
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My Coding Journey with Anime Spirit***
 
@@ -58,10 +222,19 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3o0anZ6dWt2a3g5dWJtazY1bmZrc3B6cG83eW82bWE1cjR2dmtlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/skVe8kyj61sqS0RlSZ/giphy.gif"/>
 </div>
 
+# 🔵 Blue Lock Ego
+
+> *"If it means winning, I don't mind destroying my old self."*  
+> — **Isagi Yoichi**, *Blue Lock*
+
+**FIGHT NOT TO WIN BUT TO DOMINATE!!!**
+
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/shreeya-srivastava-94a458327" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreeya-srivastava" height="30" width="40" /></a>
+<a href="https://github.com/shreesriv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shreesriv12" height="30" width="40" /></a>
 <a href="https://dev.to/shreeya_srivastava_48c156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shreeya_srivastava_48c156" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shreesriv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shreesriv12" height="30" width="40" /></a>
 <a href="https://instagram.com/shreesriv12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreesriv12" height="30" width="40" /></a>
@@ -100,68 +273,7 @@
 
 ---
 
-# 🚀 My Projects
-
-<div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-</div>
-
-## 🤖 Machine Learning And AI Projects
-
-1. **Movie Recommender System**  
-   - 🔗 GitHub: https://github.com/shreesriv12/movie-recommender-system
-   - 📄 Description: This Movie Recommender System suggests movies based on user preferences using text analysis. It analyzes movie details such as genres, keywords, cast, and crew to determine similarities between films. By leveraging NLP techniques and machine learning, it provides accurate recommendations efficiently.
-   
-2. **Crop Prediction Model**  
-   - 🔗 GitHub: https://github.com/shreesriv12/crop-prediction-model
-   - 📄 Description: The Crop Recommendation System is a machine learning-based web application that predicts the most suitable crop for cultivation based on historical data and environmental parameters. It also provides insights into required fertilizers, seeds, market prices, and estimated yield.
-
-3. **Hand Tracking Model**  
-   - 🔗 GitHub: https://github.com/shreesriv12/Hand-Tracking-module
-   - 📄 Description: This project implements a real-time hand tracking system using OpenCV and MediaPipe. It detects hands in a video feed, extracts hand landmarks, and displays tracking information, including FPS
-
-4. **Youtube-ChatBot**  
-   - 🔗 GitHub: https://github.com/shreesriv12/Youtube-ChatBot-using-Langchain
-   - 📄 Description: A Chrome Extension + AI Backend that allows users to ask questions about any YouTube video. It fetches the video's transcript, chunks it, embeds it with SentenceTransformers, stores it in FAISS, and uses Gemini AI to answer questions contextually.
-
-4. **ChatBot-with-UI-using-Streamlit-and-Langgraph**  
-   - 🔗 GitHub: https://github.com/shreesriv12/ChatBot-with-UI-using-Streamlit-and-Langgraph
-   - 📄 Description:The application provides a seamless chat experience with conversation history, a clean UI with dark/light mode, and real-time streaming of AI responses.
-## 🌐 Web Development Projects
-
-1. **Assignify(Group Project)--DevJam**  
-   - 🔗 GitHub: https://github.com/shreesriv12/DevJam
-   - 📄 Description: Assignify is a powerful and intuitive platform designed for students to efficiently manage their assignments, deadlines, and communication. With seamless integration of task tracking, file uploads, and messaging, Assignify simplifies academic workflows and boosts productivity.
-   
-2. **Mediconnect(Solo Project)**  
-   - 🔗 GitHub: https://github.com/shreesriv12/MediConnect
-   - 📄 Description: MediConnect is an all-in-one healthcare platform designed to seamlessly connect doctors and clients for hassle-free appointment scheduling, real-time consultations, and easy access to medical resources. Whether you need to book a doctor, chat for advice, or search for medicines, MediConnect provides a smooth and secure experience.
-
-2. **CryptoCred(Group Project)--Hack 36**  
-   - 🔗 GitHub: https://github.com/shreesriv12/CryptoCred
-   - 📄 Description:A blockchain-based academic certificate storage and verification platform.
-
-  
-2. **Marauders-map-2(Group Project)**  
-   - 🔗 GitHub: [https://github.com/shreesriv12/CryptoCred](https://github.com/shreesriv12/Marauders-map-2)
-   - 📄 Description: A magical, AI-powered digital platform that fuses 3D experiences, real-time gameplay, personality-driven sorting, and cutting-edge AI tools to bring Hogwarts to life like never before.
-
-
----
-
-
-
-
-# 🔵 Blue Lock Ego
-
-> *"If it means winning, I don't mind destroying my old self."*  
-> — **Isagi Yoichi**, *Blue Lock*
-FIGHT NOT TO WIN BUT TO DOMINATE!!!
-> </div>
-
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreesriv12" alt="shreesriv12" /></a> </p>
 
 ---
 
