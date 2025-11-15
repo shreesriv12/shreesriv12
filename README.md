@@ -46,31 +46,7 @@
 
 </div>
 
----
 
-## 🎯 Competitive Programming Stats
-
-<div align="center">
-
-### 🏆 CodeForces - Pupil
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Shreeya_sriv12&theme=dark&show_icons=true" alt="CodeForces Stats"/>
-
-**450+ Problems Solved** |
-
-### 🍳 CodeChef - 3★
-<a href="https://www.codechef.com/users/shreeya12_sriv">
-  <img src="https://github.com/user-attachments/assets/c9f3e1dd-4f40-487c-b1df-3330efafe5f7" alt="CodeChef Stats"/>
-</a>
-
-**700+ Problems Solved** |
-
-### 💻 Other Platforms
-- **LeetCode:** 500+ problems solved
-- **GeeksforGeeks:** 100+ problems solved |
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
