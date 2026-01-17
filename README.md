@@ -20,8 +20,6 @@
 - 🏫 **Academic Background:**
   - ISC (2022-23): 99% - St. Mary's Convent Inter College, Lucknow
   - ICSE (2020-21): 98.8% - St. Mary's Convent Inter College, Lucknow
-- 🌱 I'm currently learning **Machine Learning and Next.js**
-- 💬 Ask me about **React.js, Node.js, C, C++, Python, MongoDB, HTML, CSS, Javascript**
 - 📧 How to reach me **shreeyasrivastava1124@gmail.com**
 - ⚡ I love competitive programming!
 
