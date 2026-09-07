@@ -48,6 +48,65 @@
 
 ## 🚀 Featured Projects
 
+### ♻️ **TrustCart SecondChance – Customer-First Circular Commerce on AWS**
+**AI-Powered Return & Circular Economy Platform, Deployed End-to-End on AWS** | [🔗 GitHub](https://github.com/shreesriv12)
+
+**Tech Stack:** React 19, Vite, Node.js/Express 5, MongoDB Atlas, FastAPI, Socket.IO, AWS (ECS Fargate, CloudFront, S3, EC2, Secrets Manager, Location Service), Cloudinary, Groq Vision API
+
+**Key Features:**
+- 🤖 AI grading engine (Groq Vision) instantly assesses returned-product condition and assigns a quality grade
+- 🔁 Next Best Owner routing engine — auto-routes returns to resell, refurbish, P2P, Circular Hub, donate, or recycle
+- 🏪 Circular Hub Vendor Network with vendor inspection, hub catalogue, distance-based pickup maps, and earnings tracking
+- 🛡️ Product health cards, digital passports, and TrustLens review-intelligence for verified trust signals
+- ☁️ Fully deployed on AWS — ECS Fargate backend, CloudFront + S3 frontend, EC2 ML microservices (TrustLens, VirtualFit, Events)
+
+---
+
+### 🚨 **Crisis Management AI System**
+**Multi-Agent Pipeline for Disaster Response — Vision, Drones, Rescue Planning & Dispatch** | [🔗 GitHub](https://github.com/shreesriv12)
+
+**Tech Stack:** Python, LangGraph, PyTorch (UNet, YOLOv8), Gemini LLM, SQLite, Twilio, gTTS, OSM/Dijkstra routing
+
+**Key Features:**
+- 🛰️ Vision agent analyzes satellite/aerial imagery with UNet flood segmentation and YOLO debris/victim detection across a 100-zone grid
+- 🚁 Drone agent dispatches virtual drones per zone to count survivors, animals, and vehicles
+- 🧠 Gemini-powered rescue decision engine allocates boats, ambulances, and rescue teams by severity and need
+- 🗺️ Route agent plans optimal, flood-aware road routes (Dijkstra) for every resource, for any city worldwide
+- ✅ Human-in-the-loop admin approval gates before resource dispatch and routing
+- 📲 Communication agent generates field instructions, sends SMS via Twilio, and produces multilingual audio alerts
+
+---
+
+### 💳 **TVS NADI – Alternative Data Credit Engine for the Invisible Customer**
+**Adaptive Credit Underwriting Platform for New-to-Credit & Thin-File Borrowers** | Built for TVS Credit IT Case Study | [🔗 GitHub](https://github.com/shreesriv12)
+
+**Tech Stack:** FastAPI, SQLAlchemy, SQLite, Next.js 16, React 19, scikit-learn, LightGBM, XGBoost, CatBoost, Alembic
+
+**Key Features:**
+- 📊 Separates repayment risk, financial capacity, and evidence confidence instead of a single credit-score cutoff
+- 🌱 `SAFE_TO_LEARN` starter-credit path for thin-file borrowers, growing exposure with successful repayment
+- 💰 Cash-flow forecasting (P10/P50/P90), stress testing, and repayment-envelope calculation
+- 🧾 Segment-aware affordability logic for salaried, gig, small-merchant, and informal workers
+- 📈 Trained on real benchmark data (Home Credit, 307K+ rows) and alt-data sources (GST, telecom, UPI-style transactions) with consent capture
+- 🗣️ Optional Grok/xAI explainability layer for human-readable, non-decision-making explanations
+- ✅ 87-test backend suite covering temporal leakage protection and integration flows
+
+---
+
+### ✈️ **Travel Buddy – AI-Powered Travel Assistant**
+**Full-Stack Travel Planning App with Gemini-Powered Recommendations** | [🔗 GitHub](https://github.com/shreesriv12)
+
+**Tech Stack:** Next.js, Node.js/Express, PostgreSQL, Prisma, Google Gemini AI
+
+**Key Features:**
+- 🎯 AI-generated, personalized trip itineraries via Gemini
+- 💬 Context-aware chat assistant that remembers conversation history and preferences
+- 💰 Smart budget management and expense tracking per trip
+- 📧 Automated, personalized travel recommendation emails via scheduled cron jobs
+- 🌗 Modern, responsive UI with dark/light mode and a real-time dashboard
+
+---
+
 ### 🎯 **NextStep – AI Career & Interview Copilot**
 **End-to-End AI Platform for Career Growth & Interview Prep** | [🔗 GitHub](https://github.com/shreesriv12/NextStep)
 
@@ -164,11 +223,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -177,7 +238,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### AI/ML & Other
-- 🤖 Generative AI, Machine Learning, AI Orchestration
+- 🤖 Generative AI, Machine Learning, AI Orchestration, Multi-Agent Systems
 - 🎓 **Coursework:** Data Structures, Algorithms, OOPs in Java
 - 🎯 **Areas of Interest:** Full-Stack Development, AI/ML, System Design, Competitive Coding
 - 💪 **Soft Skills:** Problem-Solving, Communication, Teamwork, Leadership
